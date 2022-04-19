@@ -1,0 +1,64 @@
+{
+  "users": [
+          {
+          id: 1,
+          salutation: 'Herr',
+          firstName: 'Peter',
+          lastName: 'Meier',
+          emailAddress: 'meier@test.de',
+          birthDate: '2001-04-02'
+      },
+      {
+          id: 2,
+          salutation: 'Herr',
+          firstName: 'Max',
+          lastName: 'Muster',
+          emailAddress: 'max.muster@test.de',
+          birthDate: '1985-04-02'
+      },
+      {
+          id: 3,
+          salutation: 'Frau',
+          firstName: 'Melanie',
+          lastName: 'Muster',
+          emailAddress: 'm.muster@test.de',
+          birthDate: '1995-04-02'
+      },
+      {
+          id: 4,
+          salutation: 'Herr',
+          firstName: 'Klaus',
+          lastName: 'Huber',
+          emailAddress: 'klaus@test.de',
+          birthDate: '2001-04-02'
+      },
+      {
+          id: 5,
+          salutation: 'Frau',
+          firstName: 'Denise',
+          lastName: 'Benz',
+          emailAddress: 'db@test.de',
+          birthDate: '1985-04-02'
+      },
+      {
+          id: 6,
+          salutation: 'Frau',
+          firstName: 'Chantal',
+          lastName: 'Klausen',
+          emailAddress: 'm.muster@test.de',
+          birthDate: '1995-04-02'
+      }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
