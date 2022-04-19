@@ -2,7 +2,7 @@
    "users":[
       {
          "id":"3aeb1334-10ea-4017-8dd3-eaf5e7a6b84c",
-         "salutation":"Herr',
+         "salutation":"Herr",
           "firstName": "Peter",
           "lastName": "Meier",
          "emailAddress":"meier@test.de",
