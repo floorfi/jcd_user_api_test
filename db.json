@@ -6,7 +6,8 @@
           "firstName": "Peter",
           "lastName": "Meier",
          "emailAddress":"meier@test.de",
-         "birthDate":"2001-04-02"
+         "birthDate":"2001-04-02",
+         "language": "de"
       },
       {
          "id":"54a4acbb-c81d-4e93-8d21-0f335bb0ec96",
@@ -14,7 +15,8 @@
          "firstName":"Petra",
          "lastName":"Meier",
          "emailAddress":"frau.meier@test.de",
-         "birthDate":"1998-04-02"
+         "birthDate":"1998-04-02",
+         "language": "en"
       },
       {
          "id":"9a0b4c6e-8ba2-424b-b320-9f180acc3994",
@@ -22,7 +24,8 @@
          "firstName":"Gustav",
          "lastName":"Gans",
          "emailAddress":"gg@test.de",
-         "birthDate":"2001-03-15"
+         "birthDate":"2001-03-15",
+         "language": "de"
       },
       {
          "id":"c3c04aa0-42c2-45d0-88ce-6d7c324caada",
@@ -30,7 +33,8 @@
          "firstName":"Donald",
          "lastName":"Duck",
          "emailAddress":"donald@test.de",
-         "birthDate":"1999-04-02"
+         "birthDate":"1999-04-02",
+         "language": "en"
       },
       {
          "id":"be61b755-f1f0-417c-b69a-ca776d10200e",
@@ -38,7 +42,8 @@
          "firstName":"Trick",
          "lastName":"Duck",
          "emailAddress":"trick.duck@test.de",
-         "birthDate":"1987-03-02"
+         "birthDate":"1987-03-02",
+         "language": "de"
       },
       {
          "id":"03c97d4a-df89-4c77-99e2-6bb55e831404",
@@ -46,7 +51,8 @@
          "firstName":"Daisy",
          "lastName":"Duck",
          "emailAddress":"daisy@test.de",
-         "birthDate":"2001-04-02"
+         "birthDate":"2001-04-02",
+         "language": "de"
       }
    ],
    "comments":[
