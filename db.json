@@ -7,6 +7,7 @@
           "lastName": "Meier",
          "emailAddress":"meier@test.de",
          "birthDate":"2001-04-02",
+         "phoneNumber": "+490111223444",
          "language": "de"
       },
       {
@@ -16,6 +17,7 @@
          "lastName":"Meier",
          "emailAddress":"frau.meier@test.de",
          "birthDate":"1998-04-02",
+         "phoneNumber": "+490111223444",
          "language": "en"
       },
       {
@@ -25,6 +27,7 @@
          "lastName":"Gans",
          "emailAddress":"gg@test.de",
          "birthDate":"2001-03-15",
+         "phoneNumber": "+490111223444",
          "language": "de"
       },
       {
@@ -34,6 +37,7 @@
          "lastName":"Duck",
          "emailAddress":"donald@test.de",
          "birthDate":"1999-04-02",
+         "phoneNumber": "+490111223444",
          "language": "en"
       },
       {
@@ -43,6 +47,7 @@
          "lastName":"Duck",
          "emailAddress":"trick.duck@test.de",
          "birthDate":"1987-03-02",
+         "phoneNumber": "+490111223444",
          "language": "de"
       },
       {
@@ -52,6 +57,7 @@
          "lastName":"Duck",
          "emailAddress":"daisy@test.de",
          "birthDate":"2001-04-02",
+         "phoneNumber": "+490111223444",
          "language": "de"
       }
    ],
