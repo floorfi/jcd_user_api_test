@@ -1,76 +1,97 @@
 {
-   "users":[
+   "user":[
       {
          "id":"3aeb1334-10ea-4017-8dd3-eaf5e7a6b84c",
-         "salutation":"Herr",
+         "salutation": 1,
           "firstName": "Peter",
           "lastName": "Meier",
          "emailAddress":"meier@test.de",
-         "birthDate":"2001-04-02",
          "phoneNumber": "+490111223444",
+         "timeCreated": 1651831028,
+         "isDeleted": false,
+         "isActive": true,
+         "userRole": "USER",
+         "timeZone": "GMT",
          "language": "de"
       },
       {
          "id":"54a4acbb-c81d-4e93-8d21-0f335bb0ec96",
-         "salutation":"Frau",
+         "salutation":0,
          "firstName":"Petra",
          "lastName":"Meier",
          "emailAddress":"frau.meier@test.de",
-         "birthDate":"1998-04-02",
          "phoneNumber": "+490111223444",
+         "timeCreated": 1651831028,
+         "isDeleted": false,
+         "isActive": true,
+         "userRole": "USER",
+         "timeZone": "GMT",
          "language": "en"
       },
       {
          "id":"9a0b4c6e-8ba2-424b-b320-9f180acc3994",
-         "salutation":"Herr",
+         "salutation":1,
          "firstName":"Gustav",
          "lastName":"Gans",
          "emailAddress":"gg@test.de",
-         "birthDate":"2001-03-15",
          "phoneNumber": "+490111223444",
+         "timeCreated": 1651831028,
+         "isDeleted": false,
+         "isActive": true,
+         "userRole": "USER",
+         "timeZone": "GMT",
          "language": "de"
       },
       {
          "id":"c3c04aa0-42c2-45d0-88ce-6d7c324caada",
-         "salutation":"Herr",
+         "salutation":2,
          "firstName":"Donald",
          "lastName":"Duck",
          "emailAddress":"donald@test.de",
-         "birthDate":"1999-04-02",
          "phoneNumber": "+490111223444",
          "language": "en"
       },
       {
          "id":"be61b755-f1f0-417c-b69a-ca776d10200e",
-         "salutation":"Herr",
+         "salutation":1,
          "firstName":"Trick",
          "lastName":"Duck",
          "emailAddress":"trick.duck@test.de",
-         "birthDate":"1987-03-02",
          "phoneNumber": "+490111223444",
+          "timeCreated": 1651831028,
+         "isDeleted": false,
+         "isActive": true,
+         "userRole": "USER",
+         "timeZone": "GMT",
          "language": "de"
       },
       {
          "id":"03c97d4a-df89-4c77-99e2-6bb55e831404",
-         "salutation":"Frau",
+         "salutation":0,
          "firstName":"Daisy",
          "lastName":"Duck",
          "emailAddress":"daisy@test.de",
-         "birthDate":"2001-04-02",
          "phoneNumber": "+490111223444",
+         "timeCreated": 1651831028,
+         "isDeleted": false,
+         "isActive": true,
+         "userRole": "USER",
+         "timeZone": "GMT",
          "language": "de"
       }
    ],
-   "comments":[
+   "oranisation":[
       {
-         "id":1,
-         "body":"some comment",
-         "postId":1
+         "id": "03c97d4a-df89-4c77-99e2-6bb55e831404",
+         "label":"Jobcluster Deutschland GmbH"
       },
       {
-         "id":2,
-         "body":"some comment",
-         "postId":1
+         "id": "03c97d4a-df89-4c77-99e2-6bb55e831404",
+         "label":"Allianz"
+      },
+      {
+         "id": "03c97d4a-df89-4c77-99e2-6bb55e831404",
+         "label":"Vitos"
       }
    ]
 }
