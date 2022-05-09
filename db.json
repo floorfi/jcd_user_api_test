@@ -11,7 +11,7 @@
          "isDeleted": false,
          "isActive": true,
          "userRole": "USER",
-         "timeZone": "GMT",
+         "timezone": "GMT",
          "language": "de"
       },
       {
@@ -25,7 +25,7 @@
          "isDeleted": false,
          "isActive": true,
          "userRole": "USER",
-         "timeZone": "GMT",
+         "timezone": "GMT",
          "language": "en"
       },
       {
@@ -39,7 +39,7 @@
          "isDeleted": false,
          "isActive": true,
          "userRole": "USER",
-         "timeZone": "GMT",
+         "timezone": "GMT",
          "language": "de"
       },
       {
@@ -49,6 +49,11 @@
          "lastName":"Duck",
          "emailAddress":"donald@test.de",
          "phoneNumber": "+490111223444",
+         "timeCreated": 1651831028,
+         "isDeleted": false,
+         "isActive": true,
+         "userRole": "USER",
+         "timezone": "GMT",
          "language": "en"
       },
       {
@@ -62,7 +67,7 @@
          "isDeleted": false,
          "isActive": true,
          "userRole": "USER",
-         "timeZone": "GMT",
+         "timezone": "GMT",
          "language": "de"
       },
       {
@@ -76,7 +81,7 @@
          "isDeleted": false,
          "isActive": true,
          "userRole": "USER",
-         "timeZone": "GMT",
+         "timezone": "GMT",
          "language": "de"
       }
    ],
